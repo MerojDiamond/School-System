@@ -1,0 +1,11 @@
+{
+    "name": "Pupil",
+    "alias": "pupil",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Pupil\\Providers\\PupilServiceProvider"
+    ],
+    "files": []
+}
